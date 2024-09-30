@@ -163,7 +163,19 @@ cython_debug/
 
 # Dataset (Image)
 /Dataset
+/CNN/test
+/CNN/train
+/CNN/val
 
-# Document
-*.docx
-*.pdf
+# Lab
+/Lab
+
+# CNN2
+/CNN2
+
+# Activation Function
+/Activation Function
+
+# Document & Research
+/Docs
+/Research
